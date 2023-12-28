@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614967291168",
+    "project_id": "kamaldodeen-3764d",
+    "storage_bucket": "kamaldodeen-3764d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614967291168:android:4a404918d56604258ffb45",
+        "android_client_info": {
+          "package_name": "com.example.investment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAFvUeo-Ad7HMsyc9gusbpO1NU8ziVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614967291168:android:fc4e6a11a8da39928ffb45",
+        "android_client_info": {
+          "package_name": "com.usul.usul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAFvUeo-Ad7HMsyc9gusbpO1NU8ziVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
